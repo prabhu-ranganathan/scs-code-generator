@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixPOC", "SCSCodeGen\SCSCodeGen.csproj", "{460B6B27-8631-41CF-9FF9-EED111669BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460B6B27-8631-41CF-9FF9-EED111669BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460B6B27-8631-41CF-9FF9-EED111669BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460B6B27-8631-41CF-9FF9-EED111669BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460B6B27-8631-41CF-9FF9-EED111669BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE261BB-8EAC-448B-A1FF-997B05D331C9}
+	EndGlobalSection
+EndGlobal
